@@ -1,2 +1,2 @@
 # Annotation-App
-A simple annotation app for Smartcow.ai's take home assignment
+A simple annotation app for Smartcow.ai's take home assignment #take-home-test
